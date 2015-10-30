@@ -1,0 +1,9 @@
+Just run the .vbs file and enter the URL for the raw java code.
+
+
+The URL should look something like this:
+
+	https://raw.githubusercontent.com/[username]/[projectname]/[branch]/src/[package]/[filename].java
+
+
+...and can be found by clicking the "Raw" button on the page that shows your (or someone else's) java code.
