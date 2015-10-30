@@ -1,3 +1,9 @@
+
+--------------------------------------------------------------------------------------
+ Please note: This script requires you to have installed the Java SDK to run properly
+--------------------------------------------------------------------------------------
+
+
 Just run the .vbs file and enter the URL for the raw java code.
 
 
